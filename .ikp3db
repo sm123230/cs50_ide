@@ -1,0 +1,7 @@
+IKP3db - g 15:13:34,227452 - INFO - IKP3db 1.4 - Inouk Python Debugger for CPython 3.6+
+IKP3db - g 15:13:34,227613 - INFO - IKP3db listening on 127.0.0.1:15472
+IKP3db - g 15:13:34,410145 - INFO - Connected with 127.0.0.1:60472
+IKP3db - g 15:13:34,435011 - WARNING - IKP3db 1.4.1 is available on pypi.
+IKP3db - g 15:13:35,687042 - ERROR - setBreakpoint error: Line /home/ubuntu/pset/p4/t.c:6 does not exist.
+IKP3db - g 15:13:35,894928 - ERROR - setBreakpoint error: Line /home/ubuntu/pset/p4/te.c:7 does not exist.
+IKP3db - g 15:14:57,620555 - INFO - Program exited with exit code: 130.
